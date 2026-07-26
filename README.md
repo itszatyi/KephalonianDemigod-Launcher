@@ -10,7 +10,7 @@ The goal of this project was to blend desktop functionality with the visual styl
 
 ## Preview
 
-[Desktop Preview](screenshots/preview.png)
+[Desktop Preview](screenshots/preview.jpg)
 
 ---
 
